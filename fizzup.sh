@@ -1,4 +1,4 @@
-#!/bin/bash
+d#!/bin/bash
 
 clear
 BINARY_NAME="fizz"
@@ -6,17 +6,17 @@ VERSION="latest"
 FIZZUP_VERSION="v1.1.2"
 
 # Fizz variables
-GATEWAY_ADDRESS="provider.ceti.spheron.host" # Provider domain: example = provider.devnetcsphn.com
+GATEWAY_ADDRESS="provider.testnetasphn.xyz" # Provider domain: example = provider.devnetcsphn.com
 GATEWAY_PROXY_PORT="8553" # Proxyport = 8553
 GATEWAY_WEBSOCKET_PORT="8544" # ws url of the gateway example= ws://provider.devnetcsphn.com:8544
 CPU_PRICE="3"
 CPU_UNITS="4"
 MEMORY_PRICE="0.8"
 MEMORY_UNITS="8"
-STORAGE_PRICE="1.55"
-WALLET_ADDRESS="0xf68f15B7386B36E9c82a4b1e8ecb1dA2614A05f8" 
-USER_TOKEN="0x8c4a95fe1e4aed4870ed8d4993eef372272fc023668ea95350bc2e22baa37c272ab12b8b969bf357d794b28e9aa45441719862d451e8c939afc8e093700218f401"
-STORAGE_UNITS="155"
+STORAGE_PRICE="1.5"
+WALLET_ADDRESS="0xE61cba8fB2c0cEd2302A079A090d979807859992" 
+USER_TOKEN="0x520333114b0ca799b72d96513f48ed7b77473c66cc4248f59b1ecce4872fd51a207fb2b1bf0219d268aa3d8ffff514cb7bef98ad17a70d0bbc7705106bc22da301"
+STORAGE_UNITS="150"
 GPU_MODEL=""
 GPU_UNITS="0"
 GPU_PRICE="0"
