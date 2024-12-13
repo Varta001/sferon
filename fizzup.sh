@@ -6,17 +6,17 @@ VERSION="latest"
 FIZZUP_VERSION="v1.1.2"
 
 # Fizz variables
-GATEWAY_ADDRESS="provider.ceti.spheron.host" # Provider domain: example = provider.devnetcsphn.com
+GATEWAY_ADDRESS="provider.vycod.com" # Provider domain: example = provider.devnetcsphn.com
 GATEWAY_PROXY_PORT="8553" # Proxyport = 8553
 GATEWAY_WEBSOCKET_PORT="8544" # ws url of the gateway example= ws://provider.devnetcsphn.com:8544
 CPU_PRICE="3"
 CPU_UNITS="4"
 MEMORY_PRICE="0.8"
 MEMORY_UNITS="8"
-STORAGE_PRICE="1.55"
-WALLET_ADDRESS="0xD9396DF5Ba6858ABbf23099041954f03e5992FF4" 
-USER_TOKEN="0xb0ff3ec6b4fd3484338b7a7738f85b2dab04c88ef8e7f2ee7388a6c4009851825ab962606bb99920f58c69035fb499eecdd4688986a0c942a24a23ccaa9a0fae00"
-STORAGE_UNITS="155"
+STORAGE_PRICE="1.56"
+WALLET_ADDRESS="0x236b9eEEc73a23D6E6C97366849e0540b545B201" 
+USER_TOKEN="0x7a160f98a6509bbf204583c36cf139d57043a24e1a119f30fdb41cb15dbc33a02afe2eeea48ec66c64ab4a250e656dfcfcd8cc3a9d3c94387b934c8c5ea833e200"
+STORAGE_UNITS="156"
 GPU_MODEL=""
 GPU_UNITS="0"
 GPU_PRICE="0"
